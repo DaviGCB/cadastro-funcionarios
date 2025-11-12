@@ -1,6 +1,6 @@
 # 🚀 Trabalho 02 - Cadastro de Funcionários (React)
 
-Este projeto é a implementação do "Trabalho 02 - React" da disciplina de Frameworks. O objetivo foi criar uma aplicação ReactJS para o cadastro e listagem de informações, consumindo uma API REST.
+Este projeto é a implementação do "Trabalho 02 - React" da disciplina de Desenvolvimento Web. O objetivo foi criar uma aplicação ReactJS para o cadastro e listagem de informações, consumindo uma API REST.
 
 O sistema permite ao usuário Adicionar (Create), Ler (Read), Atualizar (Update) e Excluir (Delete) registros de funcionários.
 

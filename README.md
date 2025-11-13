@@ -58,4 +58,4 @@ Para que o frontend funcione, é necessário um backend rodando simultaneamente.
     ```bash
     npm start
     ```
-* Abra `http://localhost:3000` no seu navegador.
+* Abra `http://localhost:3001` no seu navegador.

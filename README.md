@@ -6,9 +6,9 @@ O sistema permite ao usuário Adicionar (Create), Ler (Read), Atualizar (Update)
 
 ## ✏️ Integrantes da Equipe
 
-* Nome do Integrante 1
-* Nome do Integrante 2
-* Nome do Integrante 3
+* ANA CAROLINA ATAYA
+* DANIEL DOS SANTOS PEREIRA RODRIGUES
+* DAVI GABRIEL DE CAMARGO BATISTA
 
 ## ⚙️ Tecnologias Utilizadas
 
